@@ -3,6 +3,8 @@ package com.speldipn.lotto;
 import java.util.Random;
 
 public class LottoMain {
+	
+	// 주석 테스트
 
 	public static void main(String[] args) {
 		/*
